@@ -1,10 +1,16 @@
 <resources>
-  <string name="app_name">FrasesCoach</string>
+    <string name="app_name">FrasesCoach</string>
 
-  <string-array name="frases">
-    <item>Quanto mais eu treino, mais sorte eu tenho</item>
-    <item>Controle o seu destino ou alguém controlará</item>
-    <item>Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem.</item>
-    <item>Um bom chefe faz com que homens comuns façam coisas incomuns.</item>
-  </string-array>
+    <string-array name="frases">
+        <item translatable="false">@string/frase1</item>
+        <item translatable="false">@string/frase2</item>
+        <item translatable="false">@string/frase3</item>
+        <item translatable="false">@string/frase4</item>
+    </string-array>
+
+    <string name="frase1" translatable="false">"Quanto mais eu treino, mais sorte eu tenho"</string>
+    <string name="frase2" translatable="false">"Controle o seu destino ou alguém controlará"</string>
+    <string name="frase3" translatable="false">"Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem."</string>
+    <string name="frase4" translatable="false">"Um bom chefe faz com que homens comuns façam coisas incomuns."</string>
+
 </resources>
